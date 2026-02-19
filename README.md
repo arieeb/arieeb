@@ -52,5 +52,5 @@ focus:
 </p>
 
 <p align="center">
-  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=arieeelq" />
+  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=arieeelqo" />
 </p>
