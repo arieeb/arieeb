@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Md%20Arieeb%20Ali&fontSize=40&fontColor=ffffff&color=gradient" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DSA+Enthusiast;Competitive+Programmer;DevopsEngineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DSA+Enthusiast;Competitive+Programmer;DevOps+Engineer" />
 
 <p align="center">
   <a href="mailto:arieebali@gmail.com">
@@ -18,6 +18,8 @@
 
 </div>
 
+---
+
 ## 👨‍💻 About Me
 
 ```yaml
@@ -30,8 +32,25 @@ focus:
   - Full Stack Development
   - DevOps & Cloud Basics
   - Projects & Internships
+```
 
-focus:
-  - Data Structures & Algorithms
-  - Full Stack Development
-  - Projects & Internships
+---
+
+## 📊 DSA Profiles & Progress
+
+<p align="center">
+  <a href="https://leetcode.com/arieeb/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/mdarieebali/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge&logo=geeksforgeeks" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/arieeb?theme=dark&font=Baloo&ext=contest" />
+</p>
+
+<p align="center">
+  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=mdarieebali" />
+</p>
