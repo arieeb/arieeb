@@ -39,7 +39,7 @@ focus:
 ## 📊 DSA Profiles & Progress
 
 <p align="center">
-  <a href="https://leetcode.com/arieeb/">
+  <a href="https://leetcode.com/u/wJYoiJ1PLm//">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/mdarieebali/">
@@ -52,5 +52,5 @@ focus:
 </p>
 
 <p align="center">
-  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=mdarieebali" />
+  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=arieeelqo" />
 </p>
