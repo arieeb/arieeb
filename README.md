@@ -39,18 +39,18 @@ focus:
 ## 📊 DSA Profiles & Progress
 
 <p align="center">
-  <a href="https://leetcode.com/u/wJYoiJ1PLm//">
+  <a href="https://leetcode.com/u/wJYoiJ1PLm/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/mdarieebali/">
+  <a href="https://auth.geeksforgeeks.org/user/arieeelq/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge&logo=geeksforgeeks" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/arieeb?theme=dark&font=Baloo&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/wJYoiJ1PLm?theme=dark&font=Baloo&ext=contest" />
 </p>
 
 <p align="center">
-  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=arieeelqo" />
+  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=arieeelq" />
 </p>
