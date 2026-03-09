@@ -59,6 +59,7 @@ focus:
   <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=arieeelqo" />
 </p>
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arieeb&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arieeb&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
