@@ -59,8 +59,8 @@ focus:
   <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=arieeelqo" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arieeb&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arieeb&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arieeb&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arieeb&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
 </p>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32px"> Tech Stack
